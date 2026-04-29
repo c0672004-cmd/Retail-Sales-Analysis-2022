@@ -40,7 +40,7 @@ The final dashboard provides four critical layers of insight:
 
 ## 🖼 Dashboard Preview
 ![Dashboard Screenshot](retailfashionstore.png) 
-*(Note: Upload your dashboard screenshot to your repo and name it 'Dashboard_Screenshot.png' for this to show up!)*
+
 
 ---
 
