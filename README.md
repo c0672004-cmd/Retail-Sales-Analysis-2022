@@ -39,7 +39,7 @@ The final dashboard provides four critical layers of insight:
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Screenshot](retailfashionstore.png) 
+![Dashboard Preview](Dashboard_Screenshot.png)
 
 
 ---
