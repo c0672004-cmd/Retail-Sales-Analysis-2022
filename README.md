@@ -41,6 +41,11 @@ The final dashboard provides four critical layers of insight:
 ## 🖼 Dashboard Preview
 ![Dashboard Preview](Dashboard_Screenshot.png)
 
+---
+## Raw data and Excel file
+* **Raw Data:** https://github.com/c0672004-cmd/Retail-Sales-Analysis-2022/blob/main/raw%20data
+* **Excel Link:** https://docs.google.com/spreadsheets/d/1RS_jMEMgx5sJrDu7lYnN_9T7et4mWIz58Z_5aB_kmbU/edit?usp=sharing
+
 
 ---
 
